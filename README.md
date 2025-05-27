@@ -1,3 +1,3 @@
 # MolCure - RevolutionUC 2025
 
-## Devpost Link: [Demo](https://devpost.com/software/healthgenome)
+## Devpost Submission: [HealthGenome Devpost Page](https://devpost.com/software/healthgenome)
